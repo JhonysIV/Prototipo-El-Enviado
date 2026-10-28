@@ -1,0 +1,28 @@
+# Directorios generados por Unity (NO SUBIR)
+/[L|l]ibrary/
+/[T|t]emp/
+/[O|o]bj/
+/[B|b]uild/
+/[B|b]uilds/
+/[L|l]ogs/
+/[U|u]serSettings/
+/[M|m]emoryCaptures/
+
+# Archivos de configuración de editores e IDEs
+.vs/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
